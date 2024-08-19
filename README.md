@@ -17,7 +17,7 @@ dbt, Apache spark, Apache Airflow, Flask
 
 ## Education
 
-M.S., Physics | The University of Chuaib Dukkali at El Jadida (2024)
+M.S., Business intelligence and Big Data Analytics | The University of Chuaib Dukkali at El Jadida (2024)
 B.S., Mathematics and Computer science | The University of Ibn zohr at Agadir (2022)
 DUT, Software engineering | The university of Qady ayad at Essaouira (2019)
 
