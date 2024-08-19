@@ -1,21 +1,45 @@
 # Data Scientist
 
 ## Technical Skills: 
-Python, SQL, AWS, Snowflake, MATLAB
+
+### programming languages: 
+Python(Pandas, NumPy, Scikit-learn), R, SQL
+### visualization tools: 
+Tableau, PowerBI, Matplotlib, Seaborn
+### Databases: 
+SQL, MySQL, MongoDB,PostgreSQL
+### Tools and frameworks:
+dbt, Apache spark, Apache Airflow, Flask
+
+###  Web Scrapping, Analyse statistique, Machine Learning,
+### Data Wrangling, Vision par Ordinateur,IoT
+
 
 ## Education
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
+
+M.S., Physics | The University of Chuaib Dukkali at El Jadida (2024)
+B.S., Mathematics and Computer science | The University of Ibn zohr at Agadir (2022)
+DUT, Software engineering | The university of Qady ayad at Essaouira (2019)
 
 ## Work Experience
-### Data Scientist @ Toyota Financial Services (June 2022 - Present)
-
-Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
-
-Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+### Data Engineer @ Itni (2 February- 30 June 2024 - teleworking internship)
+Design and implementation of data pipelines with Apache Airflow
+Utilization of dbt for data transformation and workflow automation
+Processing and analysis of large datasets with Apache Spark
 
 ## Projects
+
+### AI for Data Analisis in Football
+Creation of deep learning models for detecting players and the ball in match videos
+Utilization of computer vision techniques to analyze match statistics
+Extraction of statistics such as possession, passes, and player movements
+
+### Real Estate Price Prediction
+Data collection and cleaning of real estate data
+Application of regression models to predict property prices
+Visualization of results with Power BI to identify market trends
+
+### Conducted sentiment analysis of Moroccan social media reactions post the 2023 earthquake
+using NLP techniques on Arabic and Moroccan Darija data collected via web scraping
+Applied machine learning algorithms classic and neural network, including LSTM, for sentiment classification
+and developed a Flask-based platform for real-time sentiment analysis and statistical visualization
