@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist | Data Analyst | AI Models Specialist
 
 ## Technical Skills: 
 
